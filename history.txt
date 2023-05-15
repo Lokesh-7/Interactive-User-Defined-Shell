@@ -1,0 +1,9 @@
+cd ..
+cd ~
+ls
+ls ..
+ls -al
+echo
+pwd
+quit
+exit
