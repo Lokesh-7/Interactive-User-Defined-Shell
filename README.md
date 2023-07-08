@@ -1,5 +1,5 @@
 # Interactive-User-Defined-Shell
-A IIIT-Hyderabad course project to design &amp; implement a Interactive User Defined Shell, consisting commands like cd, echo, pwd, ls, pinfo, setenv, unsetenv, fg, bg, kjo, CTRL+C, CTRL+Z etc.
+A project to design &amp; implement a Interactive User Defined Shell, consisting commands like cd, echo, pwd, ls, pinfo, setenv, unsetenv, fg, bg, kjo, CTRL+C, CTRL+Z etc.
 ## How to compile and run
 - compile : make 
 - run : ./main
